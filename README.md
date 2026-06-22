@@ -1,25 +1,25 @@
 <div align="center">
-  
-  <!-- ═══════════ HERO HEADER ═══════════ -->
-  <h1>
-    <span style="background: linear-gradient(135deg, #4F8EF7, #7B42BC, #00D4AA); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; font-size: 2.5rem;">
-      Sarthak Tiwaskar
-    </span>
-  </h1>
-  
-  <p style="font-size: 1.2rem; color: #A0AEC0; margin-top: -10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="26" style="vertical-align: middle;" /> 
-    <strong>DevOps & Cloud Engineer</strong> | <strong>AWS Certified Solutions Architect – Associate</strong>
-  </p>
 
-  <!-- Primary badges -->
+  <!-- Typing animation – safe external service -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sarthak+Tiwaskar;DevOps+%26+Cloud+Engineer;AWS+Certified+Architect;4%2B+Years+of+Experience" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  <!-- DevOps icon – big & visible -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="70" title="DevOps"/>
+  
+  <br/>
+
+  <!-- Main badges -->
   <p>
-    <img src="https://img.shields.io/badge/DevOps-%23000000?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=4F8EF7" alt="DevOps" />
+    <img src="https://img.shields.io/badge/DevOps-4F8EF7?style=for-the-badge&logo=devdotto&logoColor=white" alt="DevOps" />
     <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified" />
-    <img src="https://img.shields.io/badge/4%2B%20Years-Experience-000?style=for-the-badge&logo=clockify&logoColor=white&labelColor=7B42BC" alt="Experience" />
+    <img src="https://img.shields.io/badge/4%2B_Years-Experience-7B42BC?style=for-the-badge&logo=clockify&logoColor=white" alt="Experience" />
   </p>
 
-  <!-- Social / Contact – your links only -->
+  <!-- Contact links – only yours -->
   <p>
     <a href="https://linkedin.com/in/sarthak-tiwaskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="mailto:sarutiwaskar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -28,43 +28,40 @@
   </p>
 
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="animated divider"/>
-  
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600" alt="divider"/>
+
 </div>
 
 ---
 
 ## 🚀 About Me
 
-<div align="center">
-  <p style="max-width: 700px; margin: 0 auto; color: #CDD6F4;">
-    I design and manage <strong>scalable, secure, and highly available AWS cloud infrastructure</strong> with a passion for automation.<br/>
-    With <strong>4+ years of hands‑on DevOps experience</strong>, I specialise in <strong>Terraform, Kubernetes (EKS), Docker, CI/CD, Argo CD, and GitOps</strong>.<br/>
-    I thrive on building resilient platforms that ship faster and break less.
-  </p>
+<p align="center">
+  I'm an <strong>AWS Certified Solutions Architect – Associate</strong> with <strong>4+ years</strong> of hands‑on DevOps experience.<br/>
+  I design and automate <strong>scalable, secure, and highly available cloud infrastructure</strong> on AWS.<br/>
+  My stack is built around <strong>Terraform, Kubernetes (EKS), Docker, CI/CD, Argo CD, and GitOps</strong>.
+</p>
 
-  <br/>
+<br/>
 
-  <table align="center">
-    <tr>
-      <td>🏆 <strong>AWS Certified</strong> (SAA-C03)</td>
-      <td>📍 <strong>Arvi, Maharashtra, India</strong></td>
-    </tr>
-    <tr>
-      <td>⚡ Deployments <strong>40% faster</strong></td>
-      <td>🛡️ Vulnerabilities <strong>35% reduced</strong></td>
-    </tr>
-    <tr>
-      <td colspan="2">💼 Open to <strong>Remote / Freelance / Full‑time</strong></td>
-    </tr>
-  </table>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">🏆 <strong>AWS Certified</strong><br/><sub>SAA-C03 · Active</sub></td>
+    <td align="center">📍 <strong>Arvi, Maharashtra, India</strong></td>
+    <td align="center">💼 <strong>Remote / Freelance / Full‑time</strong></td>
+  </tr>
+  <tr>
+    <td align="center">⚡ <strong>40% faster</strong> deployments</td>
+    <td align="center">🛡️ <strong>35% fewer</strong> vulnerabilities</td>
+    <td align="center">☁️ 100+ servers managed</td>
+  </tr>
+</table>
 
 ---
 
 ## 🛠️ Technology Stack
 
-<!-- Using a clean grid with colour‑matched badges -->
+<!-- All badges are flat-square – no text cuts -->
 <p align="center">
   <strong>☁️ Cloud & Infrastructure</strong><br/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
@@ -130,7 +127,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified Badge" />
   <br/>
-  <sub style="color: #A0AEC0;">SAA-C03 &nbsp;|&nbsp; Issued by Amazon Web Services &nbsp;|&nbsp; Active & Verified</sub>
+  <sub style="color: #A0AEC0;">SAA-C03 · Issued by Amazon Web Services · Active & Verified</sub>
 </div>
 
 ---
@@ -138,8 +135,8 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saru-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=7B42BC" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saru-12&theme=tokyonight&hide_border=true&stroke=4F8EF7&ring=7B42BC&fire=00D4AA" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Saru-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&title_color=4F8EF7&icon_color=7B42BC" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saru-12&theme=tokyonight&hide_border=true&stroke=4F8EF7&ring=7B42BC&fire=00D4AA" height="160" />
 </div>
 
 ---
@@ -150,12 +147,12 @@
   <tr>
     <td>
       <h3>🚀 Kubernetes GitOps Deployment Platform</h3>
-      <p>End‑to‑end GitOps workflow with Argo CD, AWS Secrets Manager + External Secrets Operator, multi‑env deploys via Application Sets, and custom Helm charts.</p>
+      <p>End‑to‑end GitOps with Argo CD, AWS Secrets Manager, Application Sets, and custom Helm charts.</p>
       <p><sub><code>Argo CD</code> <code>Kubernetes</code> <code>Helm</code> <code>AWS</code></sub></p>
     </td>
     <td>
       <h3>⚡ Highly Available WordPress on AWS</h3>
-      <p>Production‑grade WordPress with Nginx, Auto Scaling, advanced caching, 95+ PageSpeed score, and SSL via AWS Certificate Manager.</p>
+      <p>Production‑grade WordPress with Nginx, Auto Scaling, 95+ PageSpeed score, and SSL.</p>
       <p><sub><code>AWS EC2</code> <code>Nginx</code> <code>Auto Scaling</code> <code>SSL/ACM</code></sub></p>
     </td>
   </tr>
@@ -175,9 +172,8 @@
 
 ---
 
+<br/>
 <div align="center">
-  <br/>
-  <img src="https://img.shields.io/badge/-Automate%20everything.%20Monitor%20everything.%20Secure%20everything.-black?style=flat-square&labelColor=4F8EF7&color=000000" alt="Quote"/>
-  <br/><br/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="30" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/devops/devops-original.svg" width="40" />
+  <p><em>“Automate everything. Monitor everything. Secure everything.”</em></p>
 </div>
