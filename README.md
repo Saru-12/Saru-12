@@ -1,20 +1,26 @@
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=4F8EF7&center=true&vCenter=true&width=550&lines=Hi+%F0%9F%91%8B+I'm+Sarthak+Tiwaskar;DevOps+%26+Cloud+Engineer;AWS+Certified+Architect;4%2B+Years+Experience)](https://git.io/typing-svg)
+  <!-- Animated header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Sarthak+Tiwaskar;DevOps+%26+Cloud+Engineer;AWS+Certified+Architect;4%2B+Years+of+Experience" alt="Typing SVG" />
+  </a>
 
   <br/>
-
-  <!-- DevOps badge -->
-  <img src="https://img.shields.io/badge/DevOps-000?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=4F8EF7" />
-
-  <br/>
   <br/>
 
-  <!-- Contact badges – only your links -->
-  <a href="https://linkedin.com/in/sarthak-tiwaskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:sarutiwaskar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Saru-12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="tel:+917798963511"><img src="https://img.shields.io/badge/Phone-%2B91%207798963511-00D4AA?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  <!-- Primary badges -->
+  <p>
+    <img src="https://img.shields.io/badge/DevOps-%23000000?style=for-the-badge&logo=devdotto&logoColor=white&labelColor=4F8EF7" alt="DevOps Badge" />
+    <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified Badge" />
+  </p>
+
+  <!-- Social / Contact -->
+  <p>
+    <a href="https://linkedin.com/in/sarthak-tiwaskar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:sarutiwaskar@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://github.com/Saru-12"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+    <a href="tel:+917798963511"><img src="https://img.shields.io/badge/Phone-%2B91%207798963511-00D4AA?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+  </p>
 
 </div>
 
@@ -22,13 +28,27 @@
 
 ## 🚀 About Me
 
-I'm an **AWS Certified Solutions Architect – Associate** with **4+ years of experience** designing and managing **scalable, secure, and highly available cloud infrastructure on AWS**.  
-I specialize in **DevOps automation, Terraform, Kubernetes (EKS), Docker, CI/CD (GitHub Actions, Jenkins, Argo CD), and GitOps**. I'm passionate about building resilient platforms and mentoring engineers.
+<div align="center">
+  <p>
+    I'm an <strong>AWS Certified Solutions Architect – Associate</strong> with <strong>4+ years</strong> of hands‑on experience designing <strong>scalable, secure, and highly available cloud infrastructure</strong> on AWS.<br/>
+    I specialize in <strong>DevOps automation, Terraform, Kubernetes (EKS), Docker, CI/CD, and GitOps</strong>.<br/>
+    Passionate about building resilient platforms and mentoring engineers.
+  </p>
 
-- 🏆 **AWS Certified** (SAA-C03)
-- 🌍 **Arvi, Maharashtra, India** – Open to **Remote / Freelance / Full‑time**
-- 📈 Reduced deployments by **40%** and vulnerabilities by **35%**
-- 🚀 Currently leading DevOps for a US healthcare platform
+  <table>
+    <tr>
+      <td>🏆 <strong>AWS Certified</strong> (SAA-C03)</td>
+      <td>🌍 <strong>Arvi, Maharashtra, India</strong></td>
+    </tr>
+    <tr>
+      <td>📈 Deployments <strong>40% faster</strong></td>
+      <td>🛡️ Vulnerabilities <strong>35% reduced</strong></td>
+    </tr>
+    <tr>
+      <td colspan="2">💼 Open to <strong>Remote / Freelance / Full‑time</strong> roles</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
@@ -82,45 +102,55 @@ I specialize in **DevOps automation, Terraform, Kubernetes (EKS), Docker, CI/CD 
 
 ## 🏅 Certification
 
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified Badge"/>
-</p>
-<p align="center"><strong>AWS Certified Solutions Architect – Associate</strong><br/>Issued by Amazon Web Services · SAA-C03 · Active & Verified</p>
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white&labelColor=232F3E" alt="AWS Certified Badge" />
+  <br/>
+  <sub>SAA-C03 &nbsp;|&nbsp; Active & Verified</sub>
+</div>
 
 ---
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Saru-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saru-12&theme=tokyonight&hide_border=true" height="150" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Saru-12&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saru-12&theme=tokyonight&hide_border=true" height="150" alt="GitHub Streak" />
+</div>
 
 ---
 
 ## 🔥 Featured Projects
 
-**🚀 Kubernetes GitOps Deployment Platform**  
-End‑to‑end GitOps workflow with Argo CD, AWS Secrets Manager, multi‑environment deploys using Application Sets and custom Helm charts.  
-`Argo CD` `Kubernetes` `Helm` `AWS`
-
-**⚡ Highly Available WordPress on AWS**  
-Production‑grade WordPress with Nginx, Auto Scaling, advanced caching, and 95+ PageSpeed score, secured with SSL.  
-`AWS EC2` `Nginx` `Auto Scaling` `SSL/ACM`
-
----
-
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="mailto:sarutiwaskar@gmail.com"><img src="https://img.shields.io/badge/sarutiwaskar@gmail.com-%23000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
-  <a href="tel:+917798963511"><img src="https://img.shields.io/badge/+91%207798963511-%23000000?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00D4AA"/></a>
-  <a href="https://linkedin.com/in/sarthak-tiwaskar"><img src="https://img.shields.io/badge/sarthak--tiwaskar-%23000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
-  <a href="https://github.com/Saru-12"><img src="https://img.shields.io/badge/Saru--12-%23000000?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
-</p>
+<table>
+  <tr>
+    <td>
+      <h3>🚀 Kubernetes GitOps Deployment Platform</h3>
+      <p>End‑to‑end GitOps workflow with Argo CD, AWS Secrets Manager + External Secrets Operator, multi‑env deploys via Application Sets, and custom Helm charts.</p>
+      <p><sub><code>Argo CD</code> <code>Kubernetes</code> <code>Helm</code> <code>AWS</code></sub></p>
+    </td>
+    <td>
+      <h3>⚡ Highly Available WordPress on AWS</h3>
+      <p>Production‑grade WordPress with Nginx, Auto Scaling, advanced caching, 95+ PageSpeed score, and SSL via AWS Certificate Manager.</p>
+      <p><sub><code>AWS EC2</code> <code>Nginx</code> <code>Auto Scaling</code> <code>SSL/ACM</code></sub></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
-<p align="center">
-  <em>“Automate everything. Monitor everything. Secure everything.”</em>
-</p>
+## 📫 Let’s Connect
+
+<div align="center">
+  <a href="mailto:sarutiwaskar@gmail.com"><img src="https://img.shields.io/badge/sarutiwaskar@gmail.com-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335"/></a>
+  <a href="tel:+917798963511"><img src="https://img.shields.io/badge/+91%207798963511-%2300D4AA?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=00D4AA"/></a>
+  <br/><br/>
+  <a href="https://linkedin.com/in/sarthak-tiwaskar"><img src="https://img.shields.io/badge/sarthak--tiwaskar-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>
+  <a href="https://github.com/Saru-12"><img src="https://img.shields.io/badge/Saru--12-%23181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717"/></a>
+</div>
+
+---
+
+<div align="center">
+  <br/>
+  <img src="https://img.shields.io/badge/-Automate%20everything.%20Monitor%20everything.%20Secure%20everything.-black?style=flat-square&labelColor=4F8EF7&color=000000" alt="Quote"/>
+</div>
